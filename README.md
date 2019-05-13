@@ -1,4 +1,4 @@
-# majacoin
+# Majacoin
 
 **MainNet Parameters**
 P2P Port = 10085
