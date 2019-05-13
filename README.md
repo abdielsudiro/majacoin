@@ -1,3 +1,4 @@
+# majacoin
 
 **MainNet Parameters**
 P2P Port = 10085
@@ -235,4 +236,3 @@ Qt Wallet and Deamon, CLI version build:
 Deamon Only Buld:
 
     cd src && make -f src/makefile.unix
-# majacoin
