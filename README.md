@@ -10,7 +10,7 @@ P2P Port = 11111
 RPC Port = 11110
 
 
-UNIX BUILD NOTES
+# UNIX BUILD NOTES
 ====================
 Some notes on how to build.Majacoin in Unix.
 
