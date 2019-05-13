@@ -1,35 +1,4 @@
 
-# *.Majacoin-Core (MJC) V4.1.0.0
-
-
-
-Masternodecoin Integration/Staging Tree
-================================
-
-**Copyright (c) 2016-2017.Majacoin**
-
-#### What is.Majacoin?
-----------------
-* Coin Suffix: MJC
-* PoW Algorithm: SHA256d
-* PoW Period: 20,000 Network Initiation Blocks
-* PoW Median Target Spacing: 64 Seconds
-* PoW Difficulty Retarget: 2 Blocks
-* Full Confirmation: 60 Blocks
-* PoS Algorithm: SHA256d
-* PoS Target Spacing: 64 Seconds
-* PoS Difficulty Retarget: 2 Blocks
-* PoS Reward: Varied
-* PoS Min: 1 Day
-* PoS Max: Unlimited
-* Total Coins: 100,000,000 MJC (burnned 35000000)
-* Block Size: 2 Mega-bytes (MB)
-
-
-Masternodecoin is a digital currency that enables instant payments to anyone, anywhere in the world..Majacoin uses peer-to-peer technology over ClearNet to operate with no central authority (centralisation): managing transactions and issuing currency (ION) are carried out collectively by the.Majacoin network..Majacoin is the name of open source software which enables the use of the currency.Majacoin.
-
-
-
 **MainNet Parameters**
 P2P Port = 10085
 RPC Port = 10085
