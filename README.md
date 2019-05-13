@@ -11,7 +11,7 @@ RPC Port = 11110
 
 
 # UNIX BUILD NOTES
-====================
+
 Some notes on how to build.Majacoin in Unix.
 
 Note
